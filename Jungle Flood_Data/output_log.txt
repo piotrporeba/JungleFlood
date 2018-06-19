@@ -1,0 +1,43 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 22.21.13.8205]
+    Renderer: NVIDIA GeForce GTX 960M
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.145 seconds
+Platform assembly: D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\szkola\Semester3\ineractive multimedia\FullGame2\Jungle Flood_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 43.239147 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.482679 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1931.
+Total: 7.917438 ms (FindLiveObjects: 0.107851 ms CreateObjectMapping: 0.064790 ms MarkObjects: 0.508444 ms  DeleteObjects: 7.228450 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.254717 ms
+
+Unloading 209 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 8.058870 ms (FindLiveObjects: 0.022913 ms CreateObjectMapping: 0.015802 ms MarkObjects: 0.160790 ms  DeleteObjects: 7.858574 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 33f4 -> priority: 1 
+  Thread -> id: 3dd4 -> priority: 1 
